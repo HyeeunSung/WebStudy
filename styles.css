@@ -48,19 +48,6 @@ body {
   display: block;
   clear: both;
 }
-
-  .summary__title {
-  font-size: 38px;
-  font-weight: 300;
-  line-height: 1.25;
-  margin-bottom: 18px;
-  }
-  .summary__description {
-  font-size: 26px;
-  font-weight: 300;
-  color: #767676;
-  line-height: 1.5;
-  }
   .section--visual {
     position: relative;
     background-image: url("https://heropcode.github.io/GitHub-Responsive/img/bg.jpg");
